@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.info {
+    width: 350px;
+    height: 274.726px;
+}
+
+.tit {
+    padding-top: 71px;
+}
+
+.M {
+    padding-bottom: 178px;
+}
+
+.the {
+    padding-top: 113px;
+    padding-bottom: 113px;
+}
+.ul button {
+    color: #FFF;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 155.556% */
+    padding: 11px 33px;
+    border-radius: 24px;
+    border: 2px solid #FFF;
+}
+
+.nav-list li a {
+    color: #FFF;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 155.556% */
+}
+
+.h1 {
+    color: #FFF;
+    font-family: "Roboto", sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px; /* 156.25% */
+}
+
+.left-text {
+    max-width: 540px;
+    color: #FFF;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 155.556% */
+}
+
+.tit {
+    color: #FFF;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+}
+.blue {
+    color: #79C8C7;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 155.556% */
+}
+.wh {
+    color: #FFF;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 25px; /* 166.667% */
+}
+.the h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+}
+.rea h2 {
+    color: #012F34;
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 100% */
+}
+.rea button {
+    padding: 11px 33px;
+    border-radius: 24px;
+    border: 2px solid #012F34;
+    color: #012F34;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 155.556% */
+}
